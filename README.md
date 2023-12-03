@@ -1,4 +1,4 @@
-# Projet réalisé au sein de l'ESGI 2023
+# Projet réalisé au sein de l'ESGI 2023-2024
 
 ## Contributeurs
 - Wague Mamadi - [@MamadiWague](https://github.com/MamadiWague)
