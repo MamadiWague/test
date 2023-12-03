@@ -11,8 +11,8 @@ Ce projet est un site web simulé réalisé dans le cadre de notre formation à 
 ## Installation
 Pour installer ce projet sur votre machine locale, suivez ces étapes :
 
-1. Clonez le dépôt : `git clone https://github.com/Marokingu/Projet_GIT`
-2. Accédez au répertoire du projet : `cd Projet_GIT`
+1. Clonez le dépôt : `git clone https://github.com/Pazhani-Swamy/SiteWeb.git`
+2. Accédez au répertoire du projet : `cd SiteWeb`
 3. Assurez-vous d'avoir Node.js et npm installés sur votre machine
 4. Installez les dépendances : `npm install`
 
